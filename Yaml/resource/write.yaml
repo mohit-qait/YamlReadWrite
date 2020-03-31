@@ -1,0 +1,22 @@
+---
+orderNo: "B-9910"
+date:
+  year: 2019
+  month: "APRIL"
+  era: "CE"
+  dayOfMonth: 18
+  dayOfWeek: "THURSDAY"
+  dayOfYear: 108
+  leapYear: false
+  monthValue: 4
+  chronology:
+    id: "ISO"
+    calendarType: "iso8601"
+customerName: "Customer, Jane"
+orderLines:
+- item: "Copper Wire (200ft)"
+  quantity: 1
+  unitPrice: 50.67
+- item: "Washers (1/4\")"
+  quantity: 24
+  unitPrice: 0.15
