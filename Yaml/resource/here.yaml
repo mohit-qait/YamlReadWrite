@@ -3,15 +3,15 @@ orderNo: "B-9910"
 date:
   year: 2019
   month: "APRIL"
-  chronology:
-    id: "ISO"
-    calendarType: "iso8601"
   era: "CE"
   dayOfMonth: 18
   dayOfWeek: "THURSDAY"
   dayOfYear: 108
   leapYear: false
   monthValue: 4
+  chronology:
+    id: "ISO"
+    calendarType: "iso8601"
 customerName: "Customer, Jane"
 orderLines:
 - item: "Copper Wire (200ft)"

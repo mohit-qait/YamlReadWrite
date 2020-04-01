@@ -1,4 +1,4 @@
-package testng.Yaml;
+ package testng.Yaml;
 
 import java.io.File;
 import java.io.IOException;
@@ -33,7 +33,7 @@ public class WriteYamlFile
 		  LocalDate.parse("2019-04-18", DateTimeFormatter.ISO_DATE),
 		  "Customer, Jane", 
 		  lines);
-		mapper.writeValue(new File("resource/write.yaml"), order);
+		mapper.writeValue(new File("resource/here.yaml"), order);
 		
 	}
 	

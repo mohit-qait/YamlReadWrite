@@ -1,7 +1,8 @@
 package testng.Yaml;
 
 import java.math.BigDecimal;
-
+/* OrderLine is a Class in this we take order like item name ,order quantity, order Price
+ */
 public class OrderLine {
     private String item;
     private int quantity;

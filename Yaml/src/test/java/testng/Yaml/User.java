@@ -1,6 +1,9 @@
 package testng.Yaml;
 
 import java.util.Map;
+/*
+ * In this class we Re-write the data after Reading a yaml file
+ */
 public class User {
     private String name;
     private int age;

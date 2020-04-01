@@ -2,7 +2,10 @@ package testng.Yaml;
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
+/* Order is a Class where we are writing order Details like orderNo, date of order,CustumerName
+ * orderLins is another Class 
 
+*/
 public class Order {
     private String orderNo;
     private LocalDate date;
